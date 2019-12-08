@@ -2,7 +2,7 @@
 
 What are you looking for?
 
-| [Teaching](https://marcielbp.github.io/teaching.md)  | [Research/ Publications](https://marcielbp.github.io/research.md)  |
+| [Teaching](https://marcielbp.github.io/teaching)  | [Research/ Publications](https://marcielbp.github.io/research.md)  |
 | :---: |:---: |
 | Content Cell  | Content Cell  |
 
