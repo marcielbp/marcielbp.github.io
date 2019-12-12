@@ -1,3 +1,0 @@
-# Bio
-
-Coming soon.
