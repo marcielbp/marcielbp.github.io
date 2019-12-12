@@ -1,4 +1,7 @@
-# Teaching 
+---
+permalink: /teaching/
+title: "Teaching"
+---
 
 | Semester | Course |
 | :---: | :---: |
