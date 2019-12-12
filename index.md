@@ -1,4 +1,3 @@
-## Marciel Barros Pereira
 Welcome to my personal page. What are you looking for?
 
 | [Teaching](https://marcielbp.github.io/teaching)  | [Research Groups](https://marcielbp.github.io/research)  | [Publications](https://marcielbp.github.io/research)  | [Bio](https://marcielbp.github.io/bio)  |
