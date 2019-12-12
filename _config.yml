@@ -90,7 +90,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: single
     values:
       layout: author-override
       author_profile: true
@@ -103,8 +103,9 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: author-override
+      layout: single
       author_profile: true
+      
 
 category_archive:
   type: liquid
