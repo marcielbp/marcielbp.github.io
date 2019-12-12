@@ -1,3 +1,7 @@
-# Research
+---
+permalink: /research/
+title: "Research"
+---
+
 
 Coming soon.
