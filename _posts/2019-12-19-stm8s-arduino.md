@@ -41,7 +41,7 @@ These simple breakout boards are available on aliexpress for well under one
 Dollar (I got mine for 67 cent each, including shipping from China). These
 boards are my main development platform.
 
-![Image of the STM8S103 board](marcielbp.github.io/assets/images/stm8blue.jpg)
+![Image of the STM8S103 board](https://marcielbp.github.io/assets/images/stm8blue.jpg)
 
 They are very similar to the ESP14 Wifi-boards and
 most programs will work fine on those chinese gems as well.
@@ -60,7 +60,7 @@ for (5V) power supply, the data lines are not connected.
 All CPU pins are easily accessible on (optional) pin headers (pitch 2.54mm,
 perfect for breadboards).
 
-![Schematic of the STMS103 board](marcielbp.github.io/assets/images/stm8blue-schematic.png)
+![Schematic of the STMS103 board](https://marcielbp.github.io/assets/images/stm8blue-schematic.png)
 
 
 ## Unlocking a write protected MCU
@@ -98,7 +98,7 @@ In the end I chose a simple geometric numbering for the square UFQFPN20
 package starting with port pin PA1 and counting up from 0. This results in
 this mapping:
 
-![STM8S103 breakout board pin mapping](marcielbp.github.io/assets/images/stm8blue-pinout.png)
+![STM8S103 breakout board pin mapping](https://marcielbp.github.io/assets/images/stm8blue-pinout.png)
 
 
 sduino pin	| STM8S103 CPU port pin
