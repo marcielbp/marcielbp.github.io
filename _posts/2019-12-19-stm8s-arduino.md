@@ -14,8 +14,8 @@ Guidelines to compile and upload program to stm8s
 
 ## Setup
 
-* Install arduino board: https://tenbaht.github.io/sduino/
-* Install flash tool: https://github.com/vdudouyt/stm8flash
+* Install arduino board: [https://tenbaht.github.io/sduino/](https://tenbaht.github.io/sduino/)
+* Install flash tool: [https://github.com/vdudouyt/stm8flash](https://github.com/vdudouyt/stm8flash)
 
 Tool: ST-LINK V2 (don't forget updating udev rules, check [here](https://tenbaht.github.io/sduino/usage/manual-install/)
 
@@ -33,7 +33,7 @@ In arduino IDE:
 - programmer: ST-Link-V2
 - board: stm8s103f3
 
-The guide bellow was copied from https://github.com/tenbaht/sduino, as a quick reference. In order to get more detailed information, access https://tenbaht.github.io/sduino/
+Thanks to @tenbaht for sduino reference. In order to get more detailed information, access [https://tenbaht.github.io/sduino/](https://tenbaht.github.io/sduino/)
 
 # Generic STM8S103 breakout board
 
