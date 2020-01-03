@@ -1,4 +1,4 @@
-# My Personal Webpage on Github pages
+# My Personal website on Github pages
 
 Based on template [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
