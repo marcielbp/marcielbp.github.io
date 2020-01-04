@@ -22,15 +22,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   Marciel Barros Pereira on GitHub Pages
 twitter_username: marcielbp
 github_username: marcielbp
-#minimal_mistakes_skin: contrast
+minimal_mistakes_skin: contrast
 logo: "/assets/images/88x88.png"
 search: true
 
 # Build settings
 markdown: kramdown
-#remote_theme: mmistakes/minimal-mistakes
-theme: jekyll-text-theme
-text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 8 # amount of posts to show
