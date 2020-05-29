@@ -66,28 +66,32 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://crateus.ufc.br/"
+      url: "https://crateus.ufc.br/marciel/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/marcielbp"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/marcielbp"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/marcielbp"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://https://www.linkedin.com/in/marcielbp/"
+      
 
 footer:
   links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://crateus.ufc.br/marciel/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/marcielbp"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/marcielbp"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/marcielbp"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://https://www.linkedin.com/in/marcielbp/"
 
 defaults:
   # _posts
