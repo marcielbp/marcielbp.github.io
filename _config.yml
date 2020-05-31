@@ -58,6 +58,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-swiss
 
 author:
   name   : "Marciel Barros"
