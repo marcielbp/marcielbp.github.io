@@ -58,7 +58,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-swiss
+  - typeplate
 
 author:
   name   : "Marciel Barros"
