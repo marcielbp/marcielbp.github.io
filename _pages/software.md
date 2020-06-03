@@ -28,7 +28,9 @@ COMING SOON.
 
 # Embedded Systems
 
-COMING SOON.
+## [ESP32-cam GDrive uploader](https://github.com/marcielbp/micropython-esp32cam-to-googleDrive)
+
+This software performs a image upload to Google Drive of a taken photo from [ESP32-cam](https://esp32.com/viewtopic.php?t=10405) with [micropython firmware](http://micropython.org/).
 
 
 # WEB
